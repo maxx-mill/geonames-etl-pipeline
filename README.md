@@ -1,4 +1,4 @@
-### Geonames ETL Pipeline
+# Geonames ETL Pipeline
 
 This Python script provides a simple ETL (Extract, Transform, Load) pipeline for downloading and processing [GeoNames](https://www.geonames.org/) geographical data. It allows you to extract location data for specific countries and feature types and convert it to various geospatial formats.
 
